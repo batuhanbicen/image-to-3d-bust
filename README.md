@@ -94,11 +94,11 @@ The final STL file is not included in this repository because generated meshes c
 
 ![3D Result Front](output/result_preview.png)
 
-### Side View
+### Back View
 
 ![3D Result Side](output/result_preview2.png)
 
-### Back View
+### Side View
 
 ![3D Result Back](output/result_preview3.png)
 
